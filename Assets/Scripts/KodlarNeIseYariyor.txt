@@ -1,0 +1,49 @@
+Altin: Altın objesini aktif ve pasif hale getiren metodu içerisinde barındırır.
+
+AltinAlgilayici: Karakterin "ayaklar" tagının collider'ı altına çarptığında altin metodunu çağırır.
+Yani altını pasif hale getirir, sahneden yok eder.
+
+ArkaPlanHareketKontrol: Kameranın hareketine bağlı olarak sahneye arkaplan yerleştirir. Fakat kod bunu 
+yeni arkaplan objesi yaratarak değil, eskisinin yerini değiştirerek yapar.
+
+AyarlarKontrol: Oyunun zorluk modunun seçilimini yapar.
+
+EkrandaTut: Oyuncunun kamera sahnesinden çıkmaması için gerekli metod.
+
+EkranHesaplayicisi: Kamerayı ekrana göre ayarlar.
+
+Gezegenler: Gezegenlerin ekranda rasgtele oluşmasını sağlar, kamera hareket ettikçe yeni random
+değerler oluşur.
+
+JoystickButon: Klavye için yazılan tuş kodunun joststick'e uyarlanması.
+
+KameraHareket: Kamera oyun sahnesinden yuarıya doğru hareket ettirilir, oyunun zorluğuna göre
+hızı değişir.
+
+MenuKontrol: Menü kontrol edilir.
+
+MuzikKontrol: Müziğin kontrol ayarları yapılır.
+
+OlumculPlatform: Platformlardan ölümcül olanlarının hareketi ve oluşumu sağlanır.
+
+OyuncuHareket: Oyuncuya ait klavye ve joystick girişleri ayarlanır. Ayrıca zıplama ve ivmelenme
+değerleri kontrol edilir.
+
+OyunKontrol: Sahneler arası geçiş kontrol edilir.
+
+Platform: Platformlardan normal olanlarının hareketi ve oluşumu sağlanır.
+
+PlatformPool: Platformların sahnede oluşum pozisyonları ve klonlanmaları sağlanır.
+
+Puan: Puanın kontrol edilmesi ve kayıt altına tutulmasını sağlar.
+
+PuanKontrol: Modlara göre puanın ekrana yazdırılması.
+
+Secenekler: Değerlerin oyun kapatılsa bile kayıt altında tutulmasını sağlar.
+
+SesKontrol: Oyun içi seslerin kontrolü sağlanır.
+
+
+
+
+
