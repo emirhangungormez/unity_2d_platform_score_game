@@ -1,5 +1,5 @@
 # Unity - 2D Platform Score Game
-
+---------
 (Tur): Kameranın yukarıya hareketiyle birlikte karakterimiz bir platformdan diğerine atlayarak sonsuz bir yolculuğa çıkıyor.
 
 • Kamera sonsuza dek yukarıya hareket eder, karakter oyunu kaybettiğinde durur.
