@@ -1,8 +1,7 @@
 # Unity - 2D Platform Score Game
 
-# (Tur)
-Kameranın yukarıya hareketiyle birlikte karakterimiz bir platformdan diğerine atlayarak sonsuz bir yolculuğa çıkıyor.
-----------
+◄ (Tur) Kameranın yukarıya hareketiyle birlikte karakterimiz bir platformdan diğerine atlayarak sonsuz bir yolculuğa çıkıyor.
+
 • Kamera sonsuza Gek yukarıya hareket eder, karakter oyunu kaybettiğinde durur.
 
 • Arkaplan kameranın hareketiyle birlikte kendi konumunu değiştirir.
@@ -20,8 +19,8 @@ Kameranın yukarıya hareketiyle birlikte karakterimiz bir platformdan diğerine
 • Müzik açıp kapatılabilir.
 
 -------
-# (Eng)
-With the upward movement of the camera, our character jumps from one platform to another and embarks on an endless journey.
+◄ (Eng) With the upward movement of the camera, our character jumps from one platform to another and embarks on an endless journey.
+
 • The camera moves up forever, stopping when the character loses the game.
 
 • The background changes its position with the movement of the camera.
